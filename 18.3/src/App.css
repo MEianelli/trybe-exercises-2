@@ -1,0 +1,14 @@
+body{
+  background-color: wheat;
+  max-width: 900px;
+  margin: auto;
+}
+
+.App{
+  display: flex;
+  flex-flow: column;
+  gap: 100px;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+}

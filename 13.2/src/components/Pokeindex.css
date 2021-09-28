@@ -1,0 +1,32 @@
+.pokemon{
+  border: 1px solid black;
+  border-radius: 8px;
+  display: flex;
+}
+
+.pokemonText{
+  display: flex;
+  flex-direction: column;
+}
+
+.pokemonImg{
+  height: 150px;
+}
+
+.pokemons{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+button{
+  width: 80px;
+  height: 50px;
+  margin: 5px 5px;
+  background-color: mediumturquoise ;
+}
+
+button:hover{
+  background-color: rgb(54, 141, 138) ;
+
+}
